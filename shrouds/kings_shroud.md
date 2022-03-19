@@ -4,11 +4,14 @@ title: Stephen's King Shroud
 
 > Created by: [Stephen Lebed](https://github.com/slebed)
 
+![Stephen's King Shroud](assets/photo_KS.jpg)
+
 ## Description
-Voron Stealthburner Inspired Shroud with hidden ADXL#$% mount, dual Neopixel LEDs for printing and a Neopixel LED EVA logo.
+This is my Voron Stealthburner inspired shroud with hidden ADXL345 mount, dual Neopixel RGBLEDs for seeing what you're printing and a Neopixel RGBLED EVA logo.
 
 
 ![Stephen's King Shroud](assets/kingshroud_177_cad_sm.jpg)
+
 
 
 ## BOM
@@ -76,5 +79,4 @@ Your ADXL345 will need to have its connector pin soldered in place.  Insert the 
 
 
 ## Step Files
-
-You can find the STEP-File at [Oranginator's ADXL345 shroud mount](assets/adxl345_shroud.STEP)
+??
