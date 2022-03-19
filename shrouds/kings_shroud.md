@@ -19,7 +19,7 @@ This is my Voron Stealthburner inspired shroud with hidden ADXL345 mount, dual N
 | -- | --- | ---------------------------------------------- | --------- |----------------------
 | 1  | 1   | King Shroud body                                | [Yes](stl/KingsShroud_v176_body.stl) |Print in primary color
 | 2  | 1   | King Shroud back cover                         | [Yes](stl/KingShroud_v176_back.stl)|Print in primary color
-| 3  | 1   | EVA Logo LED holder                            |  [Yes](stl/KingsShroud_v174-LogoLEDHolderLogoLEDHolderLEDHolder.stl)|Print in translucent or nature filament
+| 3  | 1   | EVA Logo LED holder                            |  [Yes](stl/KingsShroud_v174-LogoLEDHolderLogoLEDHolderLEDHolder.stl)|Print in translucent or natural filament
 | 4  | 1   | EVA Logo LED clip                           |  [Yes](stl/KingsShroud_v174-LogoLEDHolderLogoLEDHolderLEDclip.stl)|Print in any color
 | 5  | 1   | EVA Logo sheath                            |  [Yes](stl/KingsShroud_v166-LogoLEDHolderLogoLEDHolderSheath.stl)|Print in black filament
 | 6  | 1   | EVA Logo insert                            |  [Yes](stl/KingsShroud_v167-LogoLEDHolderLogoLEDHolderInsert.stl)|Print in black filament
