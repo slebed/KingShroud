@@ -7,8 +7,10 @@ title: Stephen's King Shroud
 ![Stephen's King Shroud](assets/photo_KS.jpg)
 
 ## Description
-This is my Voron Stealthburner inspired shroud with hidden ADXL345 mount, dual Neopixel RGBLEDs for seeing what you're printing and a Neopixel RGBLED EVA logo.
+This is custom EVA shroud inspired by the Voron Stealthburner and Paweł Kucmus's EVA Queen shroud and carriage platform. This shroud should be a drop-in replacement for any EVA 2.4 shroud. Features of this shroud include a hidden ADXL345 mount, dual Neopixel RGB LEDs for seeing what you're printing and a Neopixel RGB LED backlit EVA logo.
 
+#### Disclaimer
+The names Voron, Stealthburner, EVA and Queen shroud are owned by their respective parties.
 
 ![Stephen's King Shroud](assets/kingshroud_177_cad_sm.jpg)
 
@@ -39,7 +41,7 @@ This is my Voron Stealthburner inspired shroud with hidden ADXL345 mount, dual N
 
 Print the KingsShroud_v176.stl face down on the bed in your primary color.  Note that these parts were designed to be printed with Petg and are a tight fit.  If printing in ABS, please allow for shrinkable.  Use 4 perimeters, 5 top and bottom layers.
 
-> **Note:** The are four sacrificial holes that will need to be drilled out prior to assembly.
+> **Note:** The are four 'Pokey Poke' holes that will need to be drilled out prior to assembly.
 
 ## Assembly instructions
 
