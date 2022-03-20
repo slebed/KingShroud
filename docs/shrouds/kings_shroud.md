@@ -12,8 +12,10 @@ This is custom EVA shroud inspired by the Voron Stealthburner and Paweł Kucmus'
 #### Disclaimer
 The names Voron, Stealthburner, EVA and Queen shroud are owned by their respective parties.
 
-![Stephen's King Shroud](assets/kingshroud_177_cad_sm.jpg)
+> **Warning:** These instructions are not complete!
 
+
+![Stephen's King Shroud](assets/kingshroud_177_cad_sm.jpg)
 
 
 ## BOM
