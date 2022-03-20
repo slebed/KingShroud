@@ -45,6 +45,10 @@ Print the KingsShroud_v176.stl face down on the bed in your primary color.  Note
 
 #### Assembling the Logo LED Holder
 
+Here are the printed parts for the Logo LED Holder.
+
+![Stephen's King Shroud](assets/photo_LogoParts.jpg)
+
  - Press the EVA logo insert into the EVA Logo LED holder as shown in yellow below.
 
     ![Stephen's King Shroud](assets/InsertEVAlogo.jpg)
