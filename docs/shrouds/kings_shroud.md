@@ -35,6 +35,13 @@ The names Voron, Stealthburner, EVA and Queen shroud are owned by their respecti
 | 11 | 2   | M3 x8mm Caphead screw                        	| No  |Used for attaching ADXL to body
 | 12 | 2   |10mm strand of plastic filament                       | No  | Used to help secure the back wire cover to the body.|
 
+Colons can be used to align columns.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ## Compatible EVA version
 
