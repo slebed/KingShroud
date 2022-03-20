@@ -28,7 +28,7 @@ This is my Voron Stealthburner inspired shroud with hidden ADXL345 mount, dual N
 |9|3| 28awg stranded wire                                      |No     |I used this from [Amazon.ca](https://www.amazon.ca/dp/B07THYKBBK/ref=cm_sw_em_r_mt_dp_ZGJWJ1PHSKGGRQ51FVXV?_encoding=UTF8&psc=1)  
 |10  | 4   | M3 x20mm Caphead screw                    		    | No        |
 | 11  | 2   | M3 x8mm Caphead screw                          	  	| No        |Used for attaching ADXL to body
-
+|12|2|10mm strand of plastic filament| No| Used to help secure the back wire cover to the body.
 
 
 ## Compatible EVA version
@@ -43,6 +43,8 @@ Print the KingsShroud_v176.stl face down on the bed in your primary color.  Note
 
 ## Assembly instructions
 
+#### Assembling the Logo LED Holder
+
  - Press the EVA logo insert into the EVA Logo LED holder as shown in yellow below.
 
     ![Stephen's King Shroud](assets/InsertEVAlogo.jpg)
@@ -51,7 +53,11 @@ Print the KingsShroud_v176.stl face down on the bed in your primary color.  Note
 
     ![Stephen's King Shroud](assets/SheathAttached.jpg)
 
-- Press the EVA logo LED holder into the back of the King Shroud body as shown in yellow below.  The part should press fit into the opening in the body.
+    Example of the assembled LogoLEDHolder
+
+     ![Stephen's King Shroud](assets/photo_LogoHolderAssembled_sm.jpg)
+
+ - Press the EVA logo LED holder into the back of the King Shroud body as shown in yellow below.  The part should press fit into the opening in the body.
 
     ![Stephen's King Shroud](assets/HolderInBody.jpg)
 
@@ -67,16 +73,29 @@ I used 28awg stranded wire cut to the following lengths: 3x 100mm long, 3x 60mm 
 #### Inserting the LEDs into the King shroud
 
  - Starting with the last LED, insert it into the bottom right side of the King Shroud with the wires pointing out.  Slide the LED disk into the channel making sure the square housing of the LED should fits nicely into the slot.  The square LED housing should slide all the way into the channel.  A small nub will keep the LED from falling out.
- - Insert the next LED into the left side bottom.   
-
 
 ![Stephen's King Shroud](assets/InsertLastLED.jpg)
 
-#### Wiring the adxl345_shroud
+- Insert the next LED into the left side bottom.  Make sure the LED is oriented so that all the wires are sticking out from the body.  Carefully press the LED completely into the holder for it.
+- Using a small flathead screwdriver or Allen wrench, careful push the wires into the channels as shown below.
+- Place the remaining LED into the Logo LED Holder.  Its wires should lay across in the small slot.  Press the clip over the LED so that it clicks into place.  Here is a photo showing the wiring and clip in place.
 
-Your ADXL345 will need to have its connector pin soldered in place.  Insert the pin on the side with the components and solder them in place from behind.
+ ![Stephen's King Shroud](assets/photo_wired1.jpg)
 
+#### Wiring the adxl345
 
+Your ADXL345 will need to have its connector pin soldered in place.  Insert the pin on the side with the components and solder them in place from behind.  Attach the ADXL345 using the two 8mm M3 screws.  Carefully screw them into the threaded holes until they are tight.
 
-## Step Files
-??
+Here is an example of the accelerometer mounted in place.
+
+ ![Stephen's King Shroud](assets/photo_wired.jpg)
+
+#### Attaching the back wire cover
+
+Take the two pieces of filament and insert each one into the holes at the top left and right side.  Press them into the holes as far as they will go.
+
+Take the wires that go to the connector and pass them through the opening in the back cover.
+
+Take the back cover and carefully lay it on the body.  There is a small grooved slot at the bottom that goes behind a tab above the bottom LED holders.  Align the two pieces of filament with their matching holes on the wire cover and press the cover closed.
+
+Take the four M3 x 20mm screws and pass them through the front of the body.  Attach the toolhead fan to the four screws.  Place the entire assembly to your EVA carriage and attach it like you would any other shroud.
