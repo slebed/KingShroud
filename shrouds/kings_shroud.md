@@ -41,6 +41,8 @@ Print the KingsShroud_v176.stl face down on the bed in your primary color.  Note
 
 > **Note:** The are four sacrificial holes that will need to be drilled out prior to assembly.
 
+## Assembly instructions
+
  - Press the EVA logo insert into the EVA Logo LED holder as shown in yellow below.
 
     ![Stephen's King Shroud](assets/InsertEVAlogo.jpg)
@@ -52,8 +54,6 @@ Print the KingsShroud_v176.stl face down on the bed in your primary color.  Note
 - Press the EVA logo LED holder into the back of the King Shroud body as shown in yellow below.  The part should press fit into the opening in the body.
 
     ![Stephen's King Shroud](assets/HolderInBody.jpg)
-
-## Assembly instructions
 
 #### Wiring the Neopixel (ws2812) LED harness
 
