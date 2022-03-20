@@ -19,20 +19,21 @@ The names Voron, Stealthburner, EVA and Queen shroud are owned by their respecti
 
 
 ## BOM
+
 | No | Qty | Name                                           | Printable | Notes|
 | -- | --- | ---------------------------------------------- | --------- |----------------------|
-| 1  | 1   | King Shroud body                                | [Yes](stl/KingsShroud_v176_body.stl) |Print in primary color|
+| 1  | 1   | King Shroud body                               | [Yes](stl/KingsShroud_v176_body.stl) |Print in primary color|
 | 2  | 1   | King Shroud back cover                         | [Yes](stl/KingShroud_v176_back.stl)|Print in primary color|
 | 3  | 1   | EVA Logo LED holder                            |  [Yes](stl/KingsShroud_v174-LogoLEDHolderLogoLEDHolderLEDHolder.stl)|Print in translucent or natural filament|
-| 4  | 1   | EVA Logo LED clip                           |  [Yes](stl/KingsShroud_v174-LogoLEDHolderLogoLEDHolderLEDclip.stl)|Print in any color|
-| 5  | 1   | EVA Logo sheath                            |  [Yes](stl/KingsShroud_v166-LogoLEDHolderLogoLEDHolderSheath.stl)|Print in black filament|
-| 6  | 1   | EVA Logo insert                            |  [Yes](stl/KingsShroud_v167-LogoLEDHolderLogoLEDHolderInsert.stl)|Print in black filament|
-| 7  | 1   | ADXL345                                        | No        |I used this one from [Amazon.com](https://www.amazon.com/dp/B08HLP1MPY/ref=cm_sw_em_r_mt_dp_ZATE89GFDS2K0VEVVJN0?_encoding=UTF8&psc=1)|
-|8|3|Neopixel LED (ws2812)|No|I used these from [Amazon.com](https://www.amazon.com/dp/B00P2GQUYC/ref=cm_sw_em_r_mt_dp_PMNZGTJADRJEV3NSN1C2?_encoding=UTF8&psc=1) but any compatible ones should work.|
-|9|3| 28awg stranded wire                                      |No     |I used this from [Amazon.ca](https://www.amazon.ca/dp/B07THYKBBK/ref=cm_sw_em_r_mt_dp_ZGJWJ1PHSKGGRQ51FVXV?_encoding=UTF8&psc=1)  |
-|10  | 4   | M3 x20mm Caphead screw                    		    | No        ||
-| 11  | 2   | M3 x8mm Caphead screw                          	  	| No        |Used for attaching ADXL to body
-|12|2|10mm strand of plastic filament| No| Used to help secure the back wire cover to the body.|
+| 4  | 1   | EVA Logo LED clip                              |  [Yes](stl/KingsShroud_v174-LogoLEDHolderLogoLEDHolderLEDclip.stl)|Print in any color|
+| 5  | 1   | EVA Logo sheath                                |  [Yes](stl/KingsShroud_v166-LogoLEDHolderLogoLEDHolderSheath.stl)|Print in black filament|
+| 6  | 1   | EVA Logo insert                                |  [Yes](stl/KingsShroud_v167-LogoLEDHolderLogoLEDHolderInsert.stl)|Print in black filament|
+| 7  | 1   | ADXL345                                        | No  |I used this one from [Amazon.com](https://www.amazon.com/dp/B08HLP1MPY/ref=cm_sw_em_r_mt_dp_ZATE89GFDS2K0VEVVJN0?_encoding=UTF8&psc=1)|
+| 8  | 3   |Neopixel LED (ws2812)|No|I used these from [Amazon.com](https://www.amazon.com/dp/B00P2GQUYC/ref=cm_sw_em_r_mt_dp_PMNZGTJADRJEV3NSN1C2?_encoding=UTF8&psc=1) but any compatible ones should work.|
+| 9  | 3   | 28awg stranded wire                                   |No   |I used this from [Amazon.ca](https://www.amazon.ca/dp/B07THYKBBK/ref=cm_sw_em_r_mt_dp_ZGJWJ1PHSKGGRQ51FVXV?_encoding=UTF8&psc=1)  |
+| 10 | 4   | M3 x20mm Caphead screw                    	    | No  ||
+| 11 | 2   | M3 x8mm Caphead screw                        	| No  |Used for attaching ADXL to body
+| 12 | 2   |10mm strand of plastic filament                       | No  | Used to help secure the back wire cover to the body.|
 
 
 ## Compatible EVA version
