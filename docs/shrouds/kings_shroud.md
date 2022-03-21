@@ -9,10 +9,16 @@ title: Stephen's King Shroud
 ## Description
 This is custom EVA shroud inspired by the Voron Stealthburner and Paweł Kucmus's EVA Queen shroud and carriage platform. This shroud should be a drop-in replacement for any EVA 2.4 shroud. Features of this shroud include a hidden ADXL345 mount, dual Neopixel RGB LEDs for seeing what you're printing and a Neopixel RGB LED backlit EVA logo.
 
+Because of all the wires this shroud requires, I've designed channels for the wires to fit into which will hide them from view.  The channel should have enough room for three 24awg wires, although I recommend using 28awg wires due to their flexibility.
+
+The dual Neopixel LEDs at the bottom are mounted at an angle away and downward to better illuminate the part being printed.  This also keeps the LEDs from shining in your face.  
+
+There is a back cover that will snap into place to seal the wires in.  There is a small opening for the wires to go out to a connector.  
+
 #### Disclaimer
 The names Voron, Stealthburner, EVA and Queen shroud are owned by their respective parties.
 
-> **Warning:** These instructions are not complete!
+> **Warning:** This is a BETA release!  The stl files are getting updated often.  Please refer to the changelog.  These instructions are not complete!
 
 
 ![Stephen's King Shroud](assets/kingshroud_177_cad_sm.jpg)
@@ -34,7 +40,7 @@ The names Voron, Stealthburner, EVA and Queen shroud are owned by their respecti
 | 10  | 3   | 28awg stranded wire                                   |No   |I used this from [Amazon.ca](https://www.amazon.ca/dp/B07THYKBBK/ref=cm_sw_em_r_mt_dp_ZGJWJ1PHSKGGRQ51FVXV?_encoding=UTF8&psc=1)  |
 | 11 | 4   | M3 x20mm Caphead screw                    	    | No  ||
 | 12 | 2   | M3 x8mm Caphead screw                        	| No  |Used for attaching ADXL to body
-| 13 | 2   |10mm strand of plastic filament                       | No  | Used to help secure the back wire cover to the body.|
+
 
 ## Compatible EVA version
 
@@ -42,7 +48,9 @@ The names Voron, Stealthburner, EVA and Queen shroud are owned by their respecti
 
 ## Print preparation
 
-Print the KingsShroud_v176.stl face down on the bed in your primary color.  Note that these parts were designed to be printed with Petg and are a tight fit.  If printing in ABS, please allow for shrinkable.  Use 4 perimeters, 5 top and bottom layers.
+Print the KingsShroud_v176.stl face down on the bed in your primary color.  Note that these parts were designed to be printed with Petg and are a tight fit.  If printing in ABS, please adjust for shrinkage.
+
+ - Use 4 perimeters, 5 top and bottom layers.
 
 > **Note:** The are four 'Pokey Poke' holes that will need to be drilled out prior to assembly.
 
@@ -101,10 +109,8 @@ Here is an example of the accelerometer mounted in place.
 
 #### Attaching the back wire cover
 
-Take the two pieces of filament and insert each one into the holes at the top left and right side.  Press them into the holes as far as they will go.
-
 Take the wires that go to the connector and pass them through the opening in the back cover.
 
-Take the back cover and carefully lay it on the body.  There is a small grooved slot at the bottom that goes behind a tab above the bottom LED holders.  Align the two pieces of filament with their matching holes on the wire cover and press the cover closed.
+Take the back cover and carefully lay it on the body.  There is a small grooved slot at the bottom that goes behind a tab above the bottom LED holders.  Align the two upper tabs with the matching holes in the back and snap them into place.  
 
 Take the four M3 x 20mm screws and pass them through the front of the body.  Attach the toolhead fan to the four screws.  Place the entire assembly to your EVA carriage and attach it like you would any other shroud.
