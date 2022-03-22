@@ -144,6 +144,53 @@ Align the two upper tabs with the matching holes in the back and snap them into 
 
 Take the four M3 x 20mm screws and pass them through the front of the body.  Attach the toolhead fan to the four screws.  Place the entire assembly to your EVA carriage and attach it like you would any other shroud.
 
-Completed Assembly
+**Photo below is the completed assembly on a Rat Rig V-Core3 with a Bondtech LGX and Mosquito Magnum, and Euclid probe.**
 
   ![Stephen's King Shroud](assets/photo_KS.jpg)
+
+## Klipper Macros
+
+  My LEDs are driven by a BTT Octopus 1.1 board and I'm using the RGBLED port.  If you are using a different board or a different port, then make sure you change 'pin:' to whatever pin you're using.
+
+  I'm controlling the LEDs with these simple macros in Klipper.  They can be copy/pasted into your printer.cfg below the Macros section.
+
+  ```
+[neopixel board_rgb]
+  pin: PB0
+  chain_count: 3
+  color_order: GRB
+  initial_RED: 0
+  initial_GREEN: 0
+  initial_BLUE: 0
+
+[gcode_macro TOOLHEAD_LOGOBLUE]
+gcode:
+  SET_LED LED=board_rgb RED=0 GREEN=0 BLUE=.2 INDEX=1 TRANSMIT=1
+
+[gcode_macro TOOLHEAD_LOGORED]
+gcode:
+  SET_LED LED=board_rgb RED=0.1 GREEN=0 BLUE=0 INDEX=1 TRANSMIT=1
+
+[gcode_macro TOOLHEAD_LOGOGREEN]
+gcode:
+  SET_LED LED=board_rgb RED=0 GREEN=0.1 BLUE=0 INDEX=1 TRANSMIT=1
+
+[gcode_macro TOOLHEAD_LOGOWHITE]
+gcode:
+  SET_LED LED=board_rgb RED=1.0 GREEN=1.0 BLUE=1.0 INDEX=1 TRANSMIT=1
+
+[gcode_macro TOOLHEAD_WORKLIGHT_FULL]
+gcode:
+  SET_LED LED=board_rgb RED=1.0 GREEN=1.0 BLUE=1.0 INDEX=2 TRANSMIT=0
+  SET_LED LED=board_rgb RED=1.0 GREEN=1.0 BLUE=1.0 INDEX=3 TRANSMIT=1
+
+[gcode_macro TOOLHEAD_WORKLIGHT_MED]
+gcode:
+  SET_LED LED=board_rgb RED=0.5 GREEN=0.5 BLUE=0.5 INDEX=2 TRANSMIT=0
+  SET_LED LED=board_rgb RED=0.5 GREEN=0.5 BLUE=0.5 INDEX=3 TRANSMIT=1
+
+[gcode_macro TOOLHEAD_WORKLIGHT_LOW]
+gcode:
+  SET_LED LED=board_rgb RED=0.25 GREEN=0.25 BLUE=0.25 INDEX=2 TRANSMIT=0
+  SET_LED LED=board_rgb RED=0.25 GREEN=0.25 BLUE=0.25 INDEX=3 TRANSMIT=1
+```
