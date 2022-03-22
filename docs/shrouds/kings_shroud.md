@@ -48,12 +48,13 @@ The names Voron, Stealthburner, EVA and Queen shroud are owned by their respecti
 
 ## Print preparation
 
-Print the KingsShroud_v176.stl face down on the bed in your primary color.  Note that these parts were designed to be printed with Petg and are a tight fit.  If printing in ABS, please adjust for shrinkage.
+Print the KingsShroud_v176.stl face down on the bed in your primary color.  Note that these parts were designed to be printed with PETG and are a tight fit.  If printing in ABS, please adjust for shrinkage.
 
-I used SuperSlicer to print my parrts using the following settings
+I used SuperSlicer to print my parts using the following settings
  - 0.4 nozzle
  - 4 perimeters
  - 5 top and bottom layers
+ - No supports are necessary
  - Bottom infill set to Archimedean Chords
 
  Wait!? What's that infill all about?  And what's going on with this...
@@ -74,7 +75,9 @@ Then the slicer will create this...
 
 > **Note:** The are four 'Pokey Poke' holes that will need to be drilled out prior to assembly.
 
+Here is a image showing how the parts should be oriented in your slicer.
 
+ ![Stephen's King Shroud](assets/BedOrientation.jpg)
 
 ## Assembly instructions
 
