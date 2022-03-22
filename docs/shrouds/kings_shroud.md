@@ -50,9 +50,31 @@ The names Voron, Stealthburner, EVA and Queen shroud are owned by their respecti
 
 Print the KingsShroud_v176.stl face down on the bed in your primary color.  Note that these parts were designed to be printed with Petg and are a tight fit.  If printing in ABS, please adjust for shrinkage.
 
- - Use 4 perimeters, 5 top and bottom layers.
+I used SuperSlicer to print my parrts using the following settings
+ - 0.4 nozzle
+ - 4 perimeters
+ - 5 top and bottom layers
+ - Bottom infill set to Archimedean Chords
+
+ Wait!? What's that infill all about?  And what's going on with this...
+
+ ![Stephen's King Shroud](assets/slicer_body1a.jpg)
+
+Well its a small detail, but if print the body by itself and you set infill to this...
+
+  ![Stephen's King Shroud](assets/slicer_body2a.jpg)
+
+Then the slicer will create this...
+
+ ![Stephen's King Shroud](assets/slicer_body3a.jpg)
+
+ All the infill will radiate outward from the fan opening.
+
+ Granted, its a detail that probably won't show if you print on a textured sheet or have a lot of squish, but its there.
 
 > **Note:** The are four 'Pokey Poke' holes that will need to be drilled out prior to assembly.
+
+
 
 ## Assembly instructions
 
