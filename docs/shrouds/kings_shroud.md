@@ -82,11 +82,11 @@ Then the slicer will create this...
 
 Here are the printed parts for the Logo LED Holder.
 
-![Stephen's King Shroud](assets/photo_LogoParts.jpg)
+  ![Stephen's King Shroud](assets/photo_LogoParts.jpg)
 
  - Press the EVA logo insert into the EVA Logo LED holder as shown in yellow below.
 
-    ![Stephen's King Shroud](assets/InsertEVAlogo.jpg)
+ ![Stephen's King Shroud](assets/LogoHolderInBody2.jpg)
 
  - Press the EVA logo sheath onto the EVA logo LED holder as shown in yellow below.
 
@@ -97,6 +97,8 @@ Here are the printed parts for the Logo LED Holder.
      ![Stephen's King Shroud](assets/photo_LogoHolderAssembled_sm.jpg)
 
  - Press the EVA logo LED holder into the back of the King Shroud body as shown in yellow below.  The part should press fit into the opening in the body.
+
+ > **Note:** Make sure the logo holder is oriented like the image below.  From the front the logo should be oriented like the photo above.
 
     ![Stephen's King Shroud](assets/HolderInBody.jpg)
 
