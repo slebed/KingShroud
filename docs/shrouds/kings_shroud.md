@@ -29,7 +29,7 @@ The names Voron, Stealthburner, EVA and Queen shroud are owned by their respecti
 | No | Qty | Name                                           | Printable | Notes|
 | -- | --- | ---------------------------------------------- | --------- |----------------------|
 | 1  | 1   | King Shroud body                               | [Yes](stl/KingsShroud_v179_body.stl) |Print in primary color|
-| 2  | 1   | King Shroud back cover                         | [Yes](stl/KingShroud_v179_back.stl)|Print in primary color|
+| 2  | 1   | King Shroud back cover                         | [Yes](stl/KingsShroud_v179_back.stl)|Print in primary color|
 | 3  | 1   | EVA Logo LED holder                            |  [Yes](stl/KingsShroud_v174-LogoLEDHolderLogoLEDHolderLEDHolder.stl)|Print in translucent or natural filament|
 | 4  | 1   | EVA Logo LED clip                              |  [Yes](stl/KingsShroud_v174-LogoLEDHolderLogoLEDHolderLEDclip.stl)|Print in any color|
 | 5  | 1   | EVA Logo sheath                                |  [Yes](stl/KingsShroud_v166-LogoLEDHolderLogoLEDHolderSheath.stl)|Print in black filament|
