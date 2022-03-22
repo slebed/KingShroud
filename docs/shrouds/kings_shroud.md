@@ -80,6 +80,8 @@ Here are the printed parts for the Logo LED Holder.
 
 #### Wiring the Neopixel (ws2812) LED harness
 
+ ![Stephen's King Shroud](assets/photo_LEDwireharness.jpg)
+
 I used 28awg stranded wire cut to the following lengths: 3x 100mm long, 3x 60mm long, and 3x as long as you need to go from the first LED in line to a connector outside the King Shroud, at least 60mm.
 
 - Solder the wires from the outside three pin connector to the 'IN' pins on the first LED.
@@ -87,30 +89,61 @@ I used 28awg stranded wire cut to the following lengths: 3x 100mm long, 3x 60mm 
 - Solder the three 60mm wires from the 'OUT' of the second LED so they all are laying over the three wires going 'IN'.
 - Solder the other ends of the three 60mm wires to the 'IN' of the last LED.  
 
+
+
 #### Inserting the LEDs into the King shroud
 
  - Starting with the last LED, insert it into the bottom right side of the King Shroud with the wires pointing out.  Slide the LED disk into the channel making sure the square housing of the LED should fits nicely into the slot.  The square LED housing should slide all the way into the channel.  A small nub will keep the LED from falling out.
 
-![Stephen's King Shroud](assets/InsertLastLED.jpg)
+![Stephen's King Shroud](assets/photo_insertRightSideLED.jpg)
 
 - Insert the next LED into the left side bottom.  Make sure the LED is oriented so that all the wires are sticking out from the body.  Carefully press the LED completely into the holder for it.
-- Using a small flathead screwdriver or Allen wrench, careful push the wires into the channels as shown below.
-- Place the remaining LED into the Logo LED Holder.  Its wires should lay across in the small slot.  Press the clip over the LED so that it clicks into place.  Here is a photo showing the wiring and clip in place.
 
- ![Stephen's King Shroud](assets/photo_wired1.jpg)
+![Stephen's King Shroud](assets/photo_bottomLEDs.jpg)
+
+- Using a small flathead screwdriver or Allen wrench, careful push the wires into the channels as shown below.
+
+ ![Stephen's King Shroud](assets/photo_wirerouting.png)
+ ![Stephen's King Shroud](assets/photo_wirerouting2.png)
+
+- Place the remaining LED into the Logo LED Holder.  Its wires should lay across in the small slot.
+
+ ![Stephen's King Shroud](assets/photo_LogoLED.jpg)
+
+-  Press the clip over the LED so that it clicks into place.  Here is a photo showing the wiring and clip in place.
+
+ ![Stephen's King Shroud](assets/photo_LogoLED.jpg)
+ ![Stephen's King Shroud](assets/photo_LogoLEDclip.jpg)
 
 #### Wiring the adxl345
+
+ ![Stephen's King Shroud](assets/photo_adxl345.jpg)
 
 Your ADXL345 will need to have its connector pin soldered in place.  Insert the pin on the side with the components and solder them in place from behind.  Attach the ADXL345 using the two 8mm M3 screws.  Carefully screw them into the threaded holes until they are tight.
 
 Here is an example of the accelerometer mounted in place.
 
- ![Stephen's King Shroud](assets/photo_wired.jpg)
+ ![Stephen's King Shroud](assets/photo_adxl345_mount.jpg)
 
 #### Attaching the back wire cover
 
 Take the wires that go to the connector and pass them through the opening in the back cover.
 
-Take the back cover and carefully lay it on the body.  There is a small grooved slot at the bottom that goes behind a tab above the bottom LED holders.  Align the two upper tabs with the matching holes in the back and snap them into place.  
+
+ > **Note:** The ADXL345 board has been removed for clarity but can be left in place for this next step.
+
+ ![Stephen's King Shroud](assets/photo_connector.jpg)
+
+Take the back cover and carefully lay it on the body.  There is a small grooved slot at the bottom that goes behind a tab above the bottom LED holders.  
+
+ ![Stephen's King Shroud](assets/photo_backmount1.jpg)
+
+Align the two upper tabs with the matching holes in the back and snap them into place.  They are circled in the photo below.
+
+  ![Stephen's King Shroud](assets/photo_backpins.jpg)
 
 Take the four M3 x 20mm screws and pass them through the front of the body.  Attach the toolhead fan to the four screws.  Place the entire assembly to your EVA carriage and attach it like you would any other shroud.
+
+Completed Assembly
+
+  ![Stephen's King Shroud](assets/photo_KS.jpg)
