@@ -38,10 +38,10 @@ This wouldn't have been possible without the amazing work done by Paweł Kucmus 
 | -- | --- | ---------------------------------------------- | --------- |----------------------|
 | 1  | 1   | King Shroud body                               | [Yes](stl/KingsShroud_v179_body.stl) |Print in primary color|
 | 2  | 1   | King Shroud back cover                         | [Yes](stl/KingsShroud_v179_back.stl)|Print in primary color|
-| 3  | 1   | EVA Logo LED holder                            |  [Yes](stl/KingsShroud_v174-LogoLEDHolderLogoLEDHolderLEDHolder.stl)|Print in translucent or natural filament|
-| 4  | 1   | EVA Logo LED clip                              |  [Yes](stl/KingsShroud_v174-LogoLEDHolderLogoLEDHolderLEDclip.stl)|Print in any color|
-| 5  | 1   | EVA Logo sheath                                |  [Yes](stl/KingsShroud_v166-LogoLEDHolderLogoLEDHolderSheath.stl)|Print in black filament|
-| 6  | 1   | EVA Logo insert                                |  [Yes](stl/KingsShroud_v167-LogoLEDHolderLogoLEDHolderInsert.stl)|Print in black filament|
+| 3  | 1   | EVA Logo LED holder                            | [Yes](stl/KingsShroud_v174-LogoLEDHolderLEDholder.stl)|Print in translucent or natural filament|
+| 4  | 1   | EVA Logo LED clip                              | [Yes](stl/KingsShroud_v174-LogoLEDHolderLEDclip.stl)|Print in any color|
+| 5  | 1   | EVA Logo sheath                                | [Yes](stl/KingsShroud_v166-LogoLEDHolderLogoLEDHolderSheath.stl)|Print in black filament|
+| 6  | 1   | EVA Logo insert                                | [Yes](stl/KingsShroud_v167-LogoLEDHolderLogoInsert.stl)|Print in black filament|
 | 7  | 1   | King Shroud ADXL port cover                    | [Yes](stl/KingsShroud_ADXL_cover_v04.STL)|
 | 8  | 1   | ADXL345                                        | No  |I used this one from [Amazon.com](https://www.amazon.com/dp/B08HLP1MPY/ref=cm_sw_em_r_mt_dp_ZATE89GFDS2K0VEVVJN0?_encoding=UTF8&psc=1)|
 | 9  | 3   |Neopixel LED (ws2812)|No|I used these from [Amazon.com](https://www.amazon.com/dp/B00P2GQUYC/ref=cm_sw_em_r_mt_dp_PMNZGTJADRJEV3NSN1C2?_encoding=UTF8&psc=1) but any compatible ones should work.|
