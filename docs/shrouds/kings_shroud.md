@@ -16,9 +16,17 @@ The dual Neopixel LEDs at the bottom are mounted at an angle away and downward t
 There is a back cover that will snap into place to seal the wires in.  There is a small opening for the wires to go out to a connector.  
 
 #### Disclaimer
-The names Voron, Stealthburner, EVA and Queen shroud are owned by their respective parties.
+The names Voron, Stealthburner, EVA and Queen shroud are owned by their respective parties.  This design is under the same license as EVA 2.4 which is [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
 > **Warning:** This is a BETA release!  The stl files are getting updated often.  Please refer to the changelog.  These instructions are not complete!
+
+If you want to contact me I'm **slebed#1717** on the [Unofficial Rat Rig Discord Server](https://discord.gg/D62e8XNeYa)
+
+#### Attributions
+This wouldn't have been possible without the amazing work done by Paweł Kucmus and his [EVA Carriage Standard](https://main.eva-3d.page/).  Please consider donating to his [Paypal.me](https://www.paypal.me/pkucmus).
+
+
+
 
 
 ![Stephen's King Shroud](assets/kingshroud_177_cad_sm.jpg)
