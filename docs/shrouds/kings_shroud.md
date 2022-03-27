@@ -20,7 +20,7 @@ The names Voron, Stealthburner, EVA and Queen shroud are owned by their respecti
 
 > **Warning:** This is a BETA release!  The stl files are getting updated often.  Please refer to the changelog.  These instructions are not complete!
 
-If you want to contact me I'm **slebed#1717** on the [Unofficial Rat Rig Discord Server](https://discord.gg/capTJmXRxB)
+If you want to contact me I'm **slebed#1717** on the [Unofficial Rat Rig Discord Server](https://discord.gg/hEQhKNxN)
 
 #### Attributions
 This wouldn't have been possible without the amazing work done by Paweł Kucmus and his [EVA Carriage Standard](https://main.eva-3d.page/).  Please consider donating to his [Paypal.me](https://www.paypal.me/pkucmus).
