@@ -36,7 +36,8 @@ This wouldn't have been possible without the amazing work done by Paweł Kucmus 
 
 | No | Qty | Name                                           | Printable | Notes|
 | -- | --- | ---------------------------------------------- | --------- |----------------------|
-| 1  | 1   | King Shroud body                               | [Yes](stl/KingsShroud_v179_body.stl) |Print in primary color|
+| 1a  | 1   | King Shroud body for most ADXL345 boards (15.5mm holes)       | [Yes](stl/KingsShroud_v179_body.stl) |Print in primary color|
+| 1b   | 1   | King Shroud body for Adafruit ADXL345 boards (18.9mm holes)   | [Yes](stl/KingsShroud_v181_Adafruit_v01.stl) |Print in primary color|
 | 2  | 1   | King Shroud back cover                         | [Yes](stl/KingsShroud_v179_back.stl)|Print in primary color|
 | 3  | 1   | EVA Logo LED holder                            | [Yes](stl/KingsShroud_v174-LogoLEDHolderLEDholder.stl)|Print in translucent or natural filament|
 | 4  | 1   | EVA Logo LED clip                              | [Yes](stl/KingsShroud_v174-LogoLEDHolderLEDclip.stl)|Print in any color|
