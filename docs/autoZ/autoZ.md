@@ -1,29 +1,23 @@
 ---
-title: S. Lebed's King Shroud
+title: S. Lebed's Auto Z offset Calibration
 ---
 
 > Created by: [Stephen Lebed](https://github.com/slebed)
 
-![S. Lebed's King Shroud](assets/photo_KS.jpg)
+![S. Lebed's Auto Z offset Calibration](assets/photo_KS.jpg)
 
 ## Description
-This is custom EVA shroud inspired by the Voron Stealthburner and Paweł Kucmus's EVA Queen shroud and carriage platform. This shroud should be a drop-in replacement for any EVA 2.4 shroud. Features of this shroud include a hidden ADXL345 mount, dual Neopixel RGB LEDs for seeing what you're printing and a Neopixel RGB LED backlit EVA logo.
-
-Because of all the wires this shroud requires, I've designed channels for the wires to fit into which will hide them from view.  The channel should have enough room for three 24awg wires, although I recommend using 28awg wires due to their flexibility.
-
-The dual Neopixel LEDs at the bottom are mounted at an angle away and downward to better illuminate the part being printed.  This also keeps the LEDs from shining in your face.  
-
-There is a back cover that will snap into place to seal the wires in.  There is a small opening for the wires to go out to a connector.  
+This is mod I designed for the Rat Rig V-Core3 3D Printer.  Inspired by the Voron auto Z offset calibration created by [Protoloft and can be found here.](https://github.com/protoloft/klipper_z_calibration)
 
 #### Disclaimer
 The names Voron, Stealthburner, EVA and Queen shroud are owned by their respective parties.  This design is under the same license as EVA 2.4 which is [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
-> **Warning:** This is a BETA release!  The stl files are getting updated often.  Please refer to the changelog.  These instructions are not complete!
+> **Warning:** This is a BETA release!  The stl files are getting updated often.  Please refer to the changelog.  These instructions may not be complete!
 
 If you want to contact me I'm **slebed#1717** on the [Unofficial Rat Rig Discord Server](https://discord.gg/hEQhKNxN)
 
 #### Attributions
-This wouldn't have been possible without the amazing work done by Paweł Kucmus and his [EVA Carriage Standard](https://main.eva-3d.page/).  Please consider donating to his [Paypal.me](https://www.paypal.me/pkucmus).
+This wouldn't have been possible without the amazing work done by the team at Rat Rig, Protoloft, Klipper and others.
 
 
 
@@ -36,24 +30,18 @@ This wouldn't have been possible without the amazing work done by Paweł Kucmus 
 
 | No | Qty | Name                                           | Printable | Notes|
 | -- | --- | ---------------------------------------------- | --------- |----------------------|
-| 1a  | 1   | King Shroud body for most ADXL345 boards (15.5mm holes)       | [Yes](stl/KingsShroud_v179_body.stl) |Print in primary color|
-| 1b   | 1   | King Shroud body for Adafruit ADXL345 boards (18.9mm holes)   | [Yes](stl/KingsShroud_v181_Adafruit_v01.stl) |Print in primary color|
-| 2  | 1   | King Shroud back cover                         | [Yes](stl/KingsShroud_v179_back.stl)|Print in primary color|
-| 3  | 1   | EVA Logo LED holder                            | [Yes](stl/KingsShroud_v174-LogoLEDHolderLEDholder.stl)|Print in translucent or natural filament|
-| 4  | 1   | EVA Logo LED clip                              | [Yes](stl/KingsShroud_v174-LogoLEDHolderLEDclip.stl)|Print in any color|
-| 5  | 1   | EVA Logo sheath                                | [Yes](stl/KingsShroud_v166-LogoLEDHolderLogoLEDHolderSheath.stl)|Print in black filament|
-| 6  | 1   | EVA Logo insert                                | [Yes](stl/KingsShroud_v167-LogoLEDHolderLogoInsert.stl)|Print in black filament|
-| 7  | 1   | King Shroud ADXL port cover                    | [Yes](stl/KingsShroud_ADXL_cover_v04.STL)|
-| 8  | 1   | ADXL345                                        | No  |I used this one from [Amazon.com](https://www.amazon.com/dp/B08HLP1MPY/ref=cm_sw_em_r_mt_dp_ZATE89GFDS2K0VEVVJN0?_encoding=UTF8&psc=1)|
-| 9  | 3   |Neopixel LED (ws2812)|No|I used these from [Amazon.com](https://www.amazon.com/dp/B00P2GQUYC/ref=cm_sw_em_r_mt_dp_PMNZGTJADRJEV3NSN1C2?_encoding=UTF8&psc=1) but any compatible ones should work.|
-| 10  | 3   | 28awg stranded wire                                   |No   |I used this from [Amazon.ca](https://www.amazon.ca/dp/B07THYKBBK/ref=cm_sw_em_r_mt_dp_ZGJWJ1PHSKGGRQ51FVXV?_encoding=UTF8&psc=1)  |
-| 11 | 4   | M3 x20mm Caphead screw                    	    | No  ||
-| 12 | 2   | M3 x8mm Caphead screw                        	| No  |Used for attaching ADXL to body
+| 1  | 1   | AutoZ Front Left Bedplate Endstop              | [Yes](stl/KingsShroud_v179_body.stl)|
+| 2  | 1   | AutoZ Rear Left Bedplate cable holder and flex plate guide     | [Yes](stl/KingsShroud_v179_back.stl)||
+| 3  | 1   | AutoZ Rear Right Bedplate flex plate guide     | [Yes](stl/KingsShroud_v174-LogoLEDHolderLEDholder.stl)||
+| 4  | 3   |Neopixel LED (ws2812)|No|I used these from [Amazon.com](https://www.amazon.com/dp/B00P2GQUYC/ref=cm_sw_em_r_mt_dp_PMNZGTJADRJEV3NSN1C2?_encoding=UTF8&psc=1) but any compatible ones should work.|
+| 5  | 3   | 24awg stranded wire                            |No   |I used this from [Amazon.ca](https://www.amazon.ca/dp/B07THYKBBK/ref=cm_sw_em_r_mt_dp_ZGJWJ1PHSKGGRQ51FVXV?_encoding=UTF8&psc=1)  |
+| 6 | 2   | M2 or M2.5 x20mm Caphead screws           	    | No  ||
+| 7 | 2   | M2 and M2.5 washers and nuts                   	| No  ||
 
 
-## Compatible EVA version
+## Compatibility
 
-2.4 and newer.
+This was designed around a stock V-Core 3 400, EVA 2.4 toolhead, and Euclid Probe
 
 ## Print preparation
 
