@@ -15,8 +15,8 @@ I have no plans to enclose my printer at this time and I don't even have an elec
 ## My Stuff
 Here are the links to my mods...   
 
-![Stephen's King Shroud](shrouds/assets/photo_KS.jpg)
+![Stephen's King Shroud](docs/shrouds/assets/photo_KS.jpg)
 
-[Click here for the Kings Shroud information and build instructions.](shrouds/kings_shroud.md)
+[Click here for the Kings Shroud information and build instructions.](docs/shrouds/kings_shroud.md)
 
-[Click here for my Auto Z offset information and build instructions.](autoZ/autoZ.md)
+[Click here for my Auto Z offset information and build instructions.](docs/autoZ/autoZ.md)
