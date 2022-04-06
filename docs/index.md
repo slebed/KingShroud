@@ -1,5 +1,5 @@
 ---
-title: Stephen's King Shroud
+title: S. Lebed's RAT RIG Mods Page
 ---
 
 > Created by: [Stephen Lebed](https://github.com/slebed)
