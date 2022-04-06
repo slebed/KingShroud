@@ -1,13 +1,22 @@
 ---
-title: Stephen's King Shroud
+title: S. Lebed's RAT RIG Mods Page
 ---
 
 > Created by: [Stephen Lebed](https://github.com/slebed)
 
 ## Description
-This is custom EVA shroud inspired by the Voron Stealthburner and [Paweł Kucmus's](https://main.eva-3d.page/) EVA Queen shroud and carriage platform.  This shroud should be a drop-in replacement for any EVA 2.4 shroud.  Features of this shroud include a hidden ADXL345 mount, dual Neopixel RGB LEDs for seeing what you're printing and a Neopixel RGB LED backlit EVA logo.
+Welcome to my Rat Rig Mods page.
 
+## My Setup
+I've designed all these mod around my Rat Rig V-Core3.  Its a custom size at 400x by 400y by 500z.  My toolhead is an EVA2.4 with a BondTech LGX, Mosquito Magnum and a CHT nozzle.
 
-![Stephen's King Shroud](docs/shrouds/assets/photo_KS.jpg)
+I have no plans to enclose my printer at this time and I don't even have an electronics panel.  All my electronic components are mounted on DIN rails.  I used the Rat Rig designed Y endstop block to secure the DIN rails to the 3030 extrusions allowing my to adjust the rails up or down as needed.
 
-[Click here For more information and build instructions.](docs/shrouds/kings_shroud.md)
+## My Stuff
+Here are the links to my mods...   
+
+![Stephen's King Shroud](shrouds/assets/photo_KS.jpg)
+
+[Click here for the Kings Shroud information and build instructions.](shrouds/kings_shroud.md)
+
+[Click here for my Auto Z offset information and build instructions.](autoZ/autoZ.md)

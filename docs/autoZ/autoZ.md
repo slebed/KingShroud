@@ -1,7 +1,7 @@
 ---
 title: S. Lebed's Auto Z offset Calibration
 ---
-[Back to Index Page](../index.md)
+[Back to Index Page](../../readme.md)
 
 > Created by: [Stephen Lebed](https://github.com/slebed)
 
